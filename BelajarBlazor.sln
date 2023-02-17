@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelazorTes.Web", "BelazorTes.Web\BelazorTes.Web.csproj", "{F616DC39-86E4-4418-8D88-DBC9886A62B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelajarTes.Api", "BelajarTes.Api\BelajarTes.Api.csproj", "{E646CF08-CC6E-4C45-ABD4-B0D516F81076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F616DC39-86E4-4418-8D88-DBC9886A62B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F616DC39-86E4-4418-8D88-DBC9886A62B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F616DC39-86E4-4418-8D88-DBC9886A62B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F616DC39-86E4-4418-8D88-DBC9886A62B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E646CF08-CC6E-4C45-ABD4-B0D516F81076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E646CF08-CC6E-4C45-ABD4-B0D516F81076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E646CF08-CC6E-4C45-ABD4-B0D516F81076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E646CF08-CC6E-4C45-ABD4-B0D516F81076}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00335E58-4A2F-4533-8DB9-DD8A45C9A7DD}
+	EndGlobalSection
+EndGlobal
